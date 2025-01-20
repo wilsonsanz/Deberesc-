@@ -1,0 +1,14 @@
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\bin\Debug\net9.0\Ejercicio1_2.exe
+C:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\bin\Debug\net9.0\Ejercicio1_2.deps.json
+C:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\bin\Debug\net9.0\Ejercicio1_2.runtimeconfig.json
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\bin\Debug\net9.0\Ejercicio1_2.dll
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\bin\Debug\net9.0\Ejercicio1_2.pdb
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.AssemblyInfoInputs.cache
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.AssemblyInfo.cs
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.csproj.CoreCompileInputs.cache
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.dll
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\refint\Ejercicio1_2.dll
+c:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.pdb
+C:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\Ejercicio1_2.genruntimeconfig.cache
+C:\Users\wilso\OneDrive\Documentos\Proyectos c#\Ejercicio1_2\obj\Debug\net9.0\ref\Ejercicio1_2.dll
